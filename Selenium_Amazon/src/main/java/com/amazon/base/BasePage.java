@@ -8,6 +8,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class BasePage {
 	protected WebDriver driver;
 	
+	public BasePage() {
+		
+	}
 	public WebDriver getDriver(String browser) {
 		if(browser.equalsIgnoreCase("chrome")) {
 			driver = new ChromeDriver();			
