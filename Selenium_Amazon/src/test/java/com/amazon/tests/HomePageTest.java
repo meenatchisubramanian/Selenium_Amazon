@@ -1,5 +1,7 @@
 package com.amazon.tests;
 
-public class HomePageTest {
+import com.amazon.basetest.BaseTest;
+
+public class HomePageTest extends BaseTest{
 
 }

@@ -1,5 +1,7 @@
 package com.amazon.tests;
 
-public class SignInPageTest {
+import com.amazon.basetest.BaseTest;
+
+public class SignInPageTest extends BaseTest{
 
 }

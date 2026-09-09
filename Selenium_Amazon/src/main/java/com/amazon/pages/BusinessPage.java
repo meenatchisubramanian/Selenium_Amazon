@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class BusinessPage {
+import com.amazon.base.BasePage;
+
+public class BusinessPage extends BasePage{
 
 }

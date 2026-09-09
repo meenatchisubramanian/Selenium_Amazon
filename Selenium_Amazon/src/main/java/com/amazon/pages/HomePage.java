@@ -1,5 +1,12 @@
 package com.amazon.pages;
 
-public class HomePage {
+import com.amazon.base.BasePage;
+
+public class HomePage extends BasePage{
+
+	public void openRegistrationPage() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }

@@ -1,5 +1,7 @@
 package com.amazon.pages;
 
-public class SignInPage {
+import com.amazon.base.BasePage;
+
+public class SignInPage extends BasePage{
 
 }
